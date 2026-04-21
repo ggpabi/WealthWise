@@ -143,11 +143,14 @@ This ensures recommendations are grounded in reality — if someone has no savin
 ### Transactions
 ![Transactions](screenshots/transactions.png)
 
+### Insights
+![Insights](screenshots/insights.png)
+
 ### Investment Quiz
 ![Investment Quiz](screenshots/quiz.png)
 
-### Insights
-![Insights](screenshots/insights.png)
+### Financial Health Check
+![Financial Health](screenshots/health.png)
 
 ---
 
