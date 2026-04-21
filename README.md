@@ -146,8 +146,8 @@ This ensures recommendations are grounded in reality — if someone has no savin
 ### Investment Quiz
 ![Investment Quiz](screenshots/quiz.png)
 
-### Financial Health Check
-![Financial Health](screenshots/health.png)
+### Insights
+![Insights](screenshots/insights.png)
 
 ---
 
